@@ -4,7 +4,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/IT21189944/count.svg" />
 </p>
-<h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
+<h3 align="center">A Full Stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21189944&label=Profile%20views&color=0e75b6&style=flat" alt="it21189944" /> </p>
 
