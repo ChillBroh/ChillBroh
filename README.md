@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Mongoose, Angular, Laravel, Ethical Hacking, Django**
 
-- 💬 Ask me about **react, c++, php, javascript, c, python, java, c#**
+- 💬 Ask me about **React, C++, HTML, CSS, php, Javascript, C, Python, Java, C#**
 
 - 📫 How to reach me **isharamadusanka410@gmail.com**
 
