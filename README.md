@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hi 👋, I'm Ishara">
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/IT21189944/count.svg" />
 </p>
 <h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
 
