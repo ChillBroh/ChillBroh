@@ -1,5 +1,5 @@
 
-<img src="https://mail.google.com/mail/u/0?ui=2&ik=ecc9c9e787&attid=0.1&permmsgid=msg-f:1737730711292655557&th=181da8e001e2b7c5&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_0Ie6xu-NhsdMRoXPcruAbakoYOmEz58PbXAuOgU0wuJXiWYnlAO_rFdG3IRP4ukHGv8k0NWb_NnUTYn00b_1XvAQCSG0k_ooDq_KuldXSywh_EnKpcLMhwH4&disp=emb&realattid=181da8dbcab554efa1f1">
+<img src="https://github.com/IT21189944/Shopping-website-index/blob/main/images/FD014263-EC52-4CE7-9EDD-AD11D2BBA4B4.jpg?raw=true">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/IT21189944/count.svg" />
