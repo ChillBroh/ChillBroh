@@ -2,7 +2,7 @@
 <img src="https://github.com/IT21189944/Shopping-website-index/blob/main/images/FD014263-EC52-4CE7-9EDD-AD11D2BBA4B4.jpg?raw=true">
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/IT21189944/count.svg" />
+  <img src="https://profile-counter.glitch.me/IT21189944/count.svg" >
 </p>
 <h3 align="center">A Full Stack developer from Sri Lanka</h3>
 
