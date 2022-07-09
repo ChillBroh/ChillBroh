@@ -1,4 +1,4 @@
-<img width="300px" height="200px" src = "https://github.com/IT21189944/Shopping-website-index/blob/main/images/FD014263-EC52-4CE7-9EDD-AD11D2BBA4B4.jpg?raw=true" />
+<img  src = "https://github.com/IT21189944/Shopping-website-index/blob/main/images/FD014263-EC52-4CE7-9EDD-AD11D2BBA4B4.jpg?raw=true" />
 
 <h3 align="center">A Full Stack developer from Sri Lanka</h3>
 
