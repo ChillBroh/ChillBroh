@@ -1,7 +1,6 @@
-https://github.com/IT21189944/Shopping-website-index/blob/main/images/FD014263-EC52-4CE7-9EDD-AD11D2BBA4B4.jpg?raw=true)
+<img width="300px" height="200px" src = "https://github.com/IT21189944/Shopping-website-index/blob/main/images/FD014263-EC52-4CE7-9EDD-AD11D2BBA4B4.jpg?raw=true" />
 
-<h1 align="center">Hi 👋, I'm Ishara</h1>
-<h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
+<h3 align="center">A Full Stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21189944&label=Profile%20views&color=0e75b6&style=flat" alt="it21189944" /> </p>
 
@@ -10,9 +9,9 @@ https://github.com/IT21189944/Shopping-website-index/blob/main/images/FD014263-E
 
 <p align="left"> <a href="https://twitter.com/chillbroh_98" target="blank"><img src="https://img.shields.io/twitter/follow/chillbroh_98?logo=twitter&style=for-the-badge" alt="chillbroh_98" /></a> </p>
 
-- 🌱 I’m currently learning **Mongoose, Angular, Laravel, Ethical Hacking, Django**
+- 🌱 I’m currently learning **Bootstrap, React, Laravel, Ethical Hacking, Django**
 
-- 💬 Ask me about **react, c++, php, javascript, c, python, java, c#**
+- 💬 Ask me about **C++, HTML, CSS, php, Javascript, C, Python, Java, C#, MYSQL**
 
 - 📫 How to reach me **isharamadusanka410@gmail.com**
 
