@@ -1,5 +1,5 @@
 <img  width="50%" height="250px" align="left"  src = "https://github.com/IT21189944/Shopping-website-index/blob/main/images/FD014263-EC52-4CE7-9EDD-AD11D2BBA4B4.jpg?raw=true" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21189944&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="it21189944" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21189944&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="it21189944" /></p>
 
 
 
