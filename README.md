@@ -1,7 +1,6 @@
-<img  width="50%" height="250px" align="left" style = "margin:10px;" src = "https://github.com/IT21189944/Shopping-website-index/blob/main/images/FD014263-EC52-4CE7-9EDD-AD11D2BBA4B4.jpg?raw=true" />
+<img  width="50%" height="250px" align="left"  src = "https://github.com/IT21189944/Shopping-website-index/blob/main/images/FD014263-EC52-4CE7-9EDD-AD11D2BBA4B4.jpg?raw=true" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21189944&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="it21189944" /></p>
-<br>
-<br>
+<p></p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IT21189944&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="it21189944" /></a> </p>
