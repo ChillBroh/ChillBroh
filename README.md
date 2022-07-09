@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/chillbroh_98" target="blank"><img src="https://img.shields.io/twitter/follow/chillbroh_98?logo=twitter&style=for-the-badge" alt="chillbroh_98" /></a> </p>
 
-- 🌱 I’m currently learning **Mongoose, Angular, Laravel, Ethical Hacking, Django**
+- 🌱 I’m currently learning **Bootstrap, React, Laravel, Ethical Hacking, Django**
 
-- 💬 Ask me about **React, C++, HTML, CSS, php, Javascript, C, Python, Java, C#, MYSQL**
+- 💬 Ask me about **C++, HTML, CSS, php, Javascript, C, Python, Java, C#, MYSQL**
 
 - 📫 How to reach me **isharamadusanka410@gmail.com**
 
