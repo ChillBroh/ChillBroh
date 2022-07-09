@@ -1,6 +1,6 @@
 <img  width="50%" height="250px" align="left"  src = "https://github.com/IT21189944/Shopping-website-index/blob/main/images/FD014263-EC52-4CE7-9EDD-AD11D2BBA4B4.jpg?raw=true" />
-<br/><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21189944&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="it21189944" /></p>
+<img align="right" alt="Coding" width="300" height="250px" src="https://github.com/IT21189944/Fullstack-moratuwa/blob/main/web/gif/3c00f6105775659.5f84899401909.gif">
+
 
 <br/><br/><br/>
 <br/><br/><br/>
@@ -11,8 +11,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21189944&label=Profile%20views&color=0e75b6&style=flat" alt="it21189944" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chillbroh_98" target="blank"><img src="https://img.shields.io/twitter/follow/chillbroh_98?logo=twitter&style=for-the-badge" alt="chillbroh_98" /></a> </p>
-<img align="right" alt="Coding" width="300" height="250px" src="https://github.com/IT21189944/Fullstack-moratuwa/blob/main/web/gif/3c00f6105775659.5f84899401909.gif">
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21189944&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="it21189944" /></p>
 
 - 🌱 I’m currently learning **Bootstrap, React, Laravel, Ethical Hacking, Django**
 
