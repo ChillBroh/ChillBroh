@@ -1,4 +1,5 @@
 <img  width="50%" height="250px" align="left"  src = "https://github.com/IT21189944/Shopping-website-index/blob/main/images/FD014263-EC52-4CE7-9EDD-AD11D2BBA4B4.jpg?raw=true" />
+<br/><br/><br/>
 <img align="left" alt="Coding" width="300" height="200" src="https://github.com/IT21189944/Fullstack-moratuwa/blob/main/web/gif/3c00f6105775659.5f84899401909.gif">
 
 
