@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/chillbroh_98" target="blank"><img src="https://img.shields.io/twitter/follow/chillbroh_98?logo=twitter&style=for-the-badge" alt="chillbroh_98" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21189944&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="it21189944" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21189944&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="it21189944" /></p>
 
 - 🌱 I’m currently learning **Bootstrap, React, Laravel, Ethical Hacking, Django**
 
