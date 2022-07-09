@@ -6,7 +6,7 @@
 <br/><br/><br/>
 <br/><br/><br/>
 <br/><br/><br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IT21189944&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="it21189944" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IT21189944&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="it21189944" /></a> </p>
 <h3 align="center">A Full Stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21189944&label=Profile%20views&color=0e75b6&style=flat" alt="it21189944" /> </p>
