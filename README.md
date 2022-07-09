@@ -29,3 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21189944&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="it21189944" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IT21189944&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" alt="it21189944" /></p>
+<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /><p/>
