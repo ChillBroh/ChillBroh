@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21189944&label=Profile%20views&color=0e75b6&style=flat" alt="it21189944" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21189944" alt="it21189944" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IT21189944&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="it21189944" /></a> </p>
 <img align="right" alt="Coding" width="300" src="https://github.com/IT21189944/Fullstack-moratuwa/blob/main/web/gif/3c00f6105775659.5f84899401909.gif">
 
 <p align="left"> <a href="https://twitter.com/chillbroh_98" target="blank"><img src="https://img.shields.io/twitter/follow/chillbroh_98?logo=twitter&style=for-the-badge" alt="chillbroh_98" /></a> </p>
