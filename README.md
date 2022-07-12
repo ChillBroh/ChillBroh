@@ -4,7 +4,8 @@
 
 <br/>
 <p style="
-    margin: 0;
+    margin: -39px;
+margin-right: 20px
 ">
 <img  align="right" alt="Coding" width="390px" height="250px" src="https://github.com/IT21189944/Fullstack-moratuwa/blob/main/web/gif/3c00f6105775659.5f84899401909.gif"></p>
 
