@@ -1,6 +1,4 @@
-<p style="
-    margin: 0;
-"><a target="_blank" rel="noopener noreferrer" href="https://github.com/IT21189944/Shopping-website-index/blob/main/images/FD014263-EC52-4CE7-9EDD-AD11D2BBA4B4.jpg?raw=true"><img width="390px" height="250px" align="left" src="https://github.com/IT21189944/Shopping-website-index/raw/main/images/FD014263-EC52-4CE7-9EDD-AD11D2BBA4B4.jpg?raw=true" style="max-width: 100%;"></a></p>
+<img width="390px" height="250px" align="left" src="https://github.com/IT21189944/Shopping-website-index/raw/main/images/FD014263-EC52-4CE7-9EDD-AD11D2BBA4B4.jpg?raw=true" style="max-width: 100%;">
 
 <br/>
 <p style="
