@@ -1,4 +1,4 @@
-<img  align="center" alt="Coding" width="100%" height="auto" src="https://github.com/IT21189944/Fullstack-moratuwa/blob/main/web/gif/3c00f6105775659.5f84899401909.gif">
+<img  align="center" alt="Coding" width="100%" height="300px" src="https://github.com/IT21189944/Fullstack-moratuwa/blob/main/web/gif/3c00f6105775659.5f84899401909.gif">
 
 
 <br/><br/><br/>
