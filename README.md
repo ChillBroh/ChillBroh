@@ -8,7 +8,7 @@
 <br/><br/><br/>
 <br/><br/><br/>
 <br/><br/><br/>
-
+<h1 align="center">Hi 👋, I'm Ishara</h1>
 <h2 align="center">Software Engineering Undergraduate </h2><h5 align="center">(Sri Lanka Institute of Information Technology)</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21189944&label=Profile%20views&color=0e75b6&style=flat" alt="it21189944" /> </p>
