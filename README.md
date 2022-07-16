@@ -1,4 +1,4 @@
-<img  margin-left="100px" alt="Coding" width="80%" height="300px" src="https://github.com/IT21189944/Fullstack-moratuwa/blob/main/web/gif/3c00f6105775659.5f84899401909.gif">
+<img  margin-left="300px" alt="Coding" width="80%" height="300px" src="https://github.com/IT21189944/Fullstack-moratuwa/blob/main/web/gif/3c00f6105775659.5f84899401909.gif">
 
 <h1 align="center">Hi 👋, I'm Ishara</h1>
 <h2 align="center">Software Engineering Undergraduate </h2><h5 align="center">(Sri Lanka Institute of Information Technology)</h5>
