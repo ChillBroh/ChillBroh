@@ -34,7 +34,7 @@
 
 </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21189944&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="it21189944" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IT21189944&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="it21189944" /></p>
 
 
 <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /><p/>
