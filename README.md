@@ -1,6 +1,27 @@
+
 <p  align="center" ><img alt="Coding" width="80%" height="300px" src="https://github.com/IT21189944/Fullstack-moratuwa/blob/main/web/gif/3c00f6105775659.5f84899401909.gif"></p>
 
-<h1 align="center">Hi <span width = "100px" height="100px">👋</span>, I'm Ishara</h1>
+<h1 align="center">Hi <  span class="wave" style = "      .wave {
+  animation-name: wave-animation;  /* Name of @keyframes element below */
+  animation-duration: .75s;  /* Wave speed */
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-play-state: paused;
+  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
+  display: inline-block;
+  font-size: 8rem;
+};
+
+.wave:hover {
+  animation-play-state: running; /* Play animation on mouse hover */
+};
+
+@keyframes wave-animation {
+  0% { transform: rotate( 0deg ) }
+  25% { transform: rotate( -10deg ) }
+  75% { transform: rotate( 12deg ) }
+  100% { transform: rotate( 0deg ) }
+};">👋</span>, I'm Ishara</h1>
 <h2 align="center">Software Engineering Undergraduate </h2><h5 align="center">(Sri Lanka Institute of Information Technology)</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21189944&label=Profile%20views&color=0e75b6&style=flat" alt="it21189944" /> </p>
