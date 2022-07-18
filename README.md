@@ -1,12 +1,12 @@
-<p  align="center" ><img alt="Coding" width="80%" height="300px" src="https://github.com/IT21189944/Fullstack-moratuwa/blob/main/web/gif/3c00f6105775659.5f84899401909.gif"></p>
+<p  align="center" ><img alt="Coding" width="80%" height="300px" src="https://github.com/ChillBroh/Fullstack-moratuwa/blob/main/web/gif/3c00f6105775659.5f84899401909.gif"></p>
 
 <h1 align="center">Hi!<img src="https://user-images.githubusercontent.com/79852934/177246997-68233126-9933-4310-bafd-e8fbf81ca045.gif" alt="wave" style="max-width: 50%; width:100px; display: inline-block;" data-target="animated-image.originalImage">I'm Ishara</h1>
 <h2 align="center">Software Engineering Undergraduate </h2><h5 align="center">(Sri Lanka Institute of Information Technology)</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21189944&label=Profile%20views&color=0e75b6&style=flat" alt="it21189944" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IT21189944&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="it21189944" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChillBroh&label=Profile%20views&color=0e75b6&style=flat" alt="ChillBroh" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChillBroh&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="ChillBroh" /></a> </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21189944&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="IT21189944" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChillBroh&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ChillBroh" /></p>
 <p align="left"> <a href="https://twitter.com/chillbroh_98" target="blank"><img src="https://img.shields.io/twitter/follow/chillbroh_98?logo=twitter&style=for-the-badge" alt="chillbroh_98" /></a> </p>
 
 
@@ -33,7 +33,7 @@
 
 </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IT21189944&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="it21189944" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChillBroh&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="ChillBroh" /></p>
 
 
 <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /><p/>
