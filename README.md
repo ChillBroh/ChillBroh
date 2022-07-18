@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Bootstrap, React, Laravel, Ethical Hacking, Django**
+- 🌱 I’m currently learning **Bootstrap, React, Laravel, Ethical Hacking, MongoDB**
 
 - 💬 Ask me about **C++, HTML, CSS, php, Javascript, C, Python, Java, C#, MYSQL**
 
