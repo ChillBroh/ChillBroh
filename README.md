@@ -1,6 +1,6 @@
 <p  align="center" ><img alt="Coding" width="80%" height="300px" src="https://github.com/ChillBroh/Fullstack-moratuwa/blob/main/Web%20for%20beginners/web/gif/3c00f6105775659.5f84899401909.gif"></p>
 
-<h1 align="center">Hi!<img src="https://user-images.githubusercontent.com/79852934/177246997-68233126-9933-4310-bafd-e8fbf81ca045.gif" alt="wave" style="max-width: 50%; width:100px; display: inline-block;" data-target="animated-image.originalImage">I'm Ishara</h1>
+<h1 align="center">Hi!<img src="https://user-images.githubusercontent.com/79852934/177246997-68233126-9933-4310-bafd-e8fbf81ca045.gif" alt="wave" style="max-width: 50%; width:50px; display: inline-block;" data-target="animated-image.originalImage">I'm Ishara</h1>
 <h2 align="center">A Full Stack Developer || Software Engineering Undergraduate </h2><h5 align="center">(Sri Lanka Institute of Information Technology)</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChillBroh&label=Profile%20views&color=0e75b6&style=flat" alt="ChillBroh" /> </p>
