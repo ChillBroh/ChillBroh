@@ -11,9 +11,9 @@
 
 
 
-- 🌱 I’m currently learning **Bootstrap, React, Laravel, Ethical Hacking, MongoDB**
+- 🌱 I’m currently learning **Node, React, Angular,SpringBoot, Laravel, MongoDB, Ethical Hacking**
 
-- 💬 Ask me about **C++, HTML, CSS, php, Javascript, C, Python, Java, C#, MYSQL**
+- 💬 Ask me about **Java, Javascript, Query, HTML, CSS, php, C, Python, C++, C#, MYSQL, Bootstrap**
 
 - 📫 How to reach me **isharamadusanka410@gmail.com**
 
