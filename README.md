@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Node, React, Angular,SpringBoot, Laravel, MongoDB, Ethical Hacking**
 
-- 💬 Ask me about **Java, Javascript, Query, HTML, CSS, php, C, Python, C++, C#, MYSQL, Bootstrap**
+- 💬 Ask me about **Java, Javascript, jQuery, HTML, CSS, php, C, Python, C++, C#, MYSQL, Bootstrap**
 
 - 📫 How to reach me **isharamadusanka410@gmail.com**
 
