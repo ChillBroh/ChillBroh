@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Node, React, Angular,SpringBoot, Laravel, MongoDB, Ethical Hacking**
+- 🌱 I’m currently learning **Node, React, Angular,SpringBoot, Laravel, MongoDB, Android Studio*
 
 - 💬 Ask me about **Java, Javascript, jQuery, HTML, CSS, php, C, Python, C++, C#, MYSQL, Bootstrap**
 
