@@ -39,5 +39,4 @@
 
 <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /><p/>
 
-<img src="https://raw.githubusercontent.com/ChillBroh/ChillBroh/blob/output/snake.svg" alt="Snake animation" />
 
