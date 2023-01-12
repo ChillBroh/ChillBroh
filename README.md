@@ -41,4 +41,3 @@
 
 <img src="https://raw.githubusercontent.com/ChillBroh/ChillBroh/blob/output/snake.svg" alt="Snake animation" />
 
-###
