@@ -3,7 +3,9 @@
 <h1 align="center">HII <img src="https://user-images.githubusercontent.com/93942615/180059035-8b90d723-c913-448f-bd55-4e02979a51cc.gif" alt="wave" style="max-width: 50%; width:50px; display: inline-block;" data-target="animated-image.originalImage"> I'M ISHARA</h1>
 <h2 align="center">A Full Stack Developer || Software Engineering Undergraduate </h2><h5 align="center">(Sri Lanka Institute of Information Technology)</h5>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ChillBroh&label=Profile%20views&color=0e75b6&style=flat" alt="ChillBroh" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ChillBroh&label=Profile%20views&color=0e75b6&style=flat" alt="ChillBroh" />  <a href="https://github.com/RukshanJS?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ChillBroh?color=green&logo=github">
+  </a> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChillBroh&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="ChillBroh" /></a> </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChillBroh&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ChillBroh" /></p>
