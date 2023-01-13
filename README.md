@@ -36,7 +36,7 @@
 
 </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChillBroh&theme=great-gatsby" alt="ChillBroh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChillBroh" alt="ChillBroh" /></p>
 
 
 <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /><p/>
