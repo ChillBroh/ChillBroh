@@ -8,7 +8,7 @@
   </a> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChillBroh&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="ChillBroh" / ></a> </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChillBroh&theme=great-gatsby&layout=compact" alt="ChillBroh" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChillBroh&theme=great-gatsby" alt="ChillBroh" /></p>
 <p align="left"> <a href="https://twitter.com/chillbroh_98" target="blank"><img src="https://img.shields.io/twitter/follow/chillbroh_98?logo=twitter&style=for-the-badge" alt="chillbroh_98" /></a> </p>
 
 
