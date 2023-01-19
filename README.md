@@ -23,7 +23,7 @@
 <br/>
 <img align="left" width="170" height="170" src="https://raw.githubusercontent.com/nimendrak/nimendrak/main/my-octo/my-octocat.png">
 
-- <a href="https://instagram.com/chill_broh_98">Instagram</a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chill_broh_98" height="15" width="20" />
+- <a href="https://instagram.com/chill_broh_98" style = "text-decoration : none;">Instagram</a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chill_broh_98" height="15" width="20" />
 - <a href="https://linkedin.com/in/isharamadusanka">Linkedin</a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isharamadusanka" height="15" width="20" />
 - <a href="https://www.facebook.com/ishara.madushanka.71653/">FaceBook</a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishara.madushanka.71653" height="15" width="20" />
 - <a href="mailto:isharamadusanka410@gmail.com">E-mail</a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishara.madushanka.71653" height="15" width="20" />
