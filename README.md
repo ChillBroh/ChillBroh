@@ -24,7 +24,7 @@
 <img align="left" width="170" height="170" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/my-octocat.png">
 
 - <a href="https://instagram.com/chill_broh_98" style = "text-decoration : none;">Instagram</a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chill_broh_98" height="15" width="20" />
-- <a href="https://linkedin.com/in/isharamadusanka">Linkedin</a><img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/1220314_linkedin_in_linked_social_icon.png"/>
+- <a href="https://linkedin.com/in/isharamadusanka">Linkedin</a><img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/1220314_linkedin_in_linked_social_icon.png" height="15" width="20"/>
 - <a href="https://www.facebook.com/ishara.madushanka.71653/">FaceBook</a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishara.madushanka.71653" height="15" width="20" />
 - <a href="mailto:isharamadusanka410@gmail.com">E-mail</a>   <img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/download.png"  height="15" width="20" />
 
