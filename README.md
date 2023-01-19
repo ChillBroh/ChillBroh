@@ -1,4 +1,4 @@
-<p  align="center" ><img alt="Coding" width="80%" height="300px" src=""></p>
+<p  align="center" ><img alt="Coding" width="80%" height="300px" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/code.gif"></p>
 
 <h1 align="center">HII <img src="https://user-images.githubusercontent.com/93942615/180059035-8b90d723-c913-448f-bd55-4e02979a51cc.gif" alt="wave" style="max-width: 50%; width:50px; display: inline-block;" data-target="animated-image.originalImage"> I'M ISHARA</h1>
 <h2 align="center">A Full Stack Developer || Software Engineering Undergraduate </h2><h5 align="center">(Sri Lanka Institute of Information Technology)</h5>
