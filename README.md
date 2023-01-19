@@ -1,8 +1,6 @@
 <p  align="center" ><img alt="Coding" width="80%" height="300px" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/code.gif"></p>
 
-<h1 align="center">Heyy There! <img src="https://user-images.githubusercontent.com/93942615/180059035-8b90d723-c913-448f-bd55-4e02979a51cc.gif" alt="wave" style="max-width: 50%; width:50px; display: inline-block;" data-target="animated-image.originalImage"></h1>
-<h2 align="center"> I'm Ishara Madusanka"<h2/>
-<h2 align="center">A Full Stack Developer || Software Engineering Undergraduate </h2><h5 align="center">(Sri Lanka Institute of Information Technology)</h5>
+<h1 align="center">Heyy There! <img src="https://user-images.githubusercontent.com/93942615/180059035-8b90d723-c913-448f-bd55-4e02979a51cc.gif" alt="wave" style="max-width: 50%; width:50px; display: inline-block;" data-target="animated-image.originalImage"></h1><h2 align="center"> I'm Ishara Madusanka"<h2/><h2 align="center">A Full Stack Developer || Software Engineering Undergraduate </h2><h5 align="center">(Sri Lanka Institute of Information Technology)</h5>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ChillBroh&label=Profile%20views&color=0e75b6&style=flat" alt="ChillBroh" />  <a href="https://github.com/ChillBroh?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ChillBroh?color=green&logo=github">
