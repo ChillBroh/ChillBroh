@@ -18,13 +18,12 @@
 - 💬 Ask me about **Java, Javascript, jQuery, HTML, CSS, php, C, Python, C++, C#, MYSQL, Bootstrap**
 
 <br/>
-<br/>
 
 ## 📫 How to reach me
 <br/>
-<img align="left" width="150" height="150" src="https://raw.githubusercontent.com/nimendrak/nimendrak/main/my-octo/my-octocat.png">
+<img align="left" width="170" height="170" src="https://raw.githubusercontent.com/nimendrak/nimendrak/main/my-octo/my-octocat.png">
 
-- <a href="https://instagram.com/chill_broh_98">Instagram</a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chill_broh_98" height="30" width="40" />
+- <a href="https://instagram.com/chill_broh_98">Instagram</a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chill_broh_98" height="15" width="20" />
 - <a href="https://linkedin.com/in/isharamadusanka">Linkedin</a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isharamadusanka" height="30" width="40" />
 - <a href="https://twitter.com/chillbroh_98">FaceBook</a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishara.madushanka.71653" height="30" width="40" />
 - <a href="mailto:isharamadusanka410@gmail.com">E-mail</a> 📧
