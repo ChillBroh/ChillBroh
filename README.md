@@ -13,9 +13,9 @@
 
 
 
-- 🌱 I’m currently learning **Node, React, Angular,SpringBoot, Laravel, MongoDB, Android Studio**
+- 🌱 I’m currently learning **Node, React, Angular, MongoDB, Express.js, Android Studio**
 
-- 💬 Ask me about **Java, Javascript, jQuery, HTML, CSS, php, C, Python, C++, C#, MYSQL, Bootstrap**
+- 💬 Ask me about **Java, Javascript, HTML, CSS, php, C, Python, C++, C#, MYSQL, Bootstrap**
 
 <br/>
 
