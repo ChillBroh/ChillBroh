@@ -26,7 +26,7 @@
 - <a href="https://instagram.com/chill_broh_98" style = "text-decoration : none;">Instagram</a>   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chill_broh_98" height="15" width="20" />
 - <a href="https://linkedin.com/in/isharamadusanka">Linkedin</a>    <img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/1220314_linkedin_in_linked_social_icon.png" height="24" width="24"/>
 - <a href="https://www.facebook.com/ishara.madushanka.71653/">FaceBook</a>    <img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/393297_facebook_icon.png" alt="ishara.madushanka.71653" height="24" width="24" />
-- <a href="mailto:isharamadusanka410@gmail.com">E-mail</a>    <img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/1220340_gmail_google_mail_icon.png"  height="15" width="20" />
+- <a href="mailto:isharamadusanka410@gmail.com">E-mail</a>    <img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/1220340_gmail_google_mail_icon.png"  height="25" width="25" />
 
 <br/>
 <br/>
