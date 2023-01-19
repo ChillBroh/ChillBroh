@@ -1,4 +1,4 @@
-<p  align="center" ><img alt="Coding" width="80%" height="300px" src="https://drive.google.com/file/d/1pS86KE7_QEM-PeztkPTm6oNLe_bwHGEI/view?usp=sharing"></p>
+<p  align="center" ><img alt="Coding" width="80%" height="300px" src=""></p>
 
 <h1 align="center">HII <img src="https://user-images.githubusercontent.com/93942615/180059035-8b90d723-c913-448f-bd55-4e02979a51cc.gif" alt="wave" style="max-width: 50%; width:50px; display: inline-block;" data-target="animated-image.originalImage"> I'M ISHARA</h1>
 <h2 align="center">A Full Stack Developer || Software Engineering Undergraduate </h2><h5 align="center">(Sri Lanka Institute of Information Technology)</h5>
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **isharamadusanka410@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Get in Touch<img align="left" width="150" height="150" src="https://raw.githubusercontent.com/nimendrak/nimendrak/main/my-octo/my-octocat.png"></a>
 <p align="left">
 <a href="https://twitter.com/chillbroh_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chillbroh_98" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/isharamadusanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isharamadusanka" height="30" width="40" /></a>
