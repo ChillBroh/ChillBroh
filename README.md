@@ -55,3 +55,5 @@
 <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /><p/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChillBroh&theme=dark&hide_border=false)<br/>
+
+ <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=16&duration=6000&pause=1000&color=CCF7E3&center=true&vCenter=true&width=1000&lines=It's+pleasure+to+me+you+are+exploring+my+profile...!">
