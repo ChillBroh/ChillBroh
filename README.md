@@ -52,6 +52,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChillBroh&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="ChillBroh" /></p>
 
+## ✍️ Quote of the Day
 
 <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /><p/>
 
