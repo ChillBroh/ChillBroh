@@ -14,9 +14,9 @@
 
 
 
-- 🌱 I’m currently learning **Node, React, Angular, MongoDB, Express.js, Android Studio, R language**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Probability and Statistics, R language**
 
-- 💬 Ask me about **Java, Javascript, HTML, CSS, php, C, Python, C++, C#, MYSQL, Bootstrap**
+- 💬 Ask me about **Java, Javascript, MERN stack, Kotlin, HTML, CSS, php, C, Python, C++, C#, MYSQL**
 
 <br/>
 
