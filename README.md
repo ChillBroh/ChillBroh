@@ -28,6 +28,7 @@
 - <a href="https://linkedin.com/in/isharamadusanka">Linkedin</a>    <img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/1220314_linkedin_in_linked_social_icon.png" height="24" width="24"/>
 - <a href="https://www.facebook.com/ishara.madushanka.71653/">FaceBook</a>    <img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/393297_facebook_icon.png" alt="ishara.madushanka.71653" height="24" width="24" />
 - <a href="mailto:isharamadusanka410@gmail.com">E-mail</a>    <img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/1220340_gmail_google_mail_icon.png"  height="25" width="25" />
+- - <a href="https://medium.com/@chillBroh">Blog</a>   
 
 <br/>
 <br/>
