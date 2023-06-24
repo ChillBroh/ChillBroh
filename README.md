@@ -14,9 +14,9 @@
 
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Probability and Statistics, R language, TypeScript**
-- 👨‍💻 Currently Working on  **Travely (Travel and Toursim web)**
-- 💬 Ask me about **Java, Javascript, MERN stack, Kotlin, HTML, CSS, php, C, Python, C++, C#, MYSQL**
+- 🌱 I’m currently learning **.Net, Cloud Computing, TypeScript**
+- 👨‍💻 Currently Working on  **IBM Full Stack Software Developer Professional Certificate**
+- 💬 Ask me about **Java, Javascript, MERN stack, Kotlin, HTML, CSS, php, C, C++, MYSQL, Data Structures and Algorithm**
 
 <br/>
 
