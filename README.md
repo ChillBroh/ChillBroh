@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **.Net, Cloud Computing, TypeScript**
+- 🌱 I’m currently learning **React-native, ORDB, TypeScript**
 - 👨‍💻 Currently Working on  **IBM Full Stack Software Developer Professional Certificate**
 - 💬 Ask me about **Java, Javascript, MERN stack, Kotlin, HTML, CSS, php, C, C++, MYSQL, Data Structures and Algorithm**
 
