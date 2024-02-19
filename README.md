@@ -16,9 +16,9 @@
 <p align="left"> <a href="https://twitter.com/chillbroh_98" target="blank"><img src="https://img.shields.io/twitter/follow/chillbroh_98?logo=twitter&style=for-the-badge" alt="chillbroh_98" /></a> </p>
 
 
-- 🌱 I’m currently learning **React-native, ORDB, Nest.js, Next.js**
+- 🌱 I’m currently learning **Software Architecture, Angular, SpringBoot**
 - 👨‍💻 Currently Working on  **IBM Full Stack Software Developer Professional Certificate**
-- 💬 Ask me about **Javascript, MERN stack, Java, Kotlin, CSS, C, C++, MYSQL, Data Structures and Algorithm**
+- 💬 Fun Facts About Me **I enjoy debugging code and finding solutions to tricky problems**
 
 <br/>
 
