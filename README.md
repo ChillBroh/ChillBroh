@@ -15,11 +15,6 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChillBroh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ChillBroh" /></p>
 <p align="left"> <a href="https://twitter.com/chillbroh_98" target="blank"><img src="https://img.shields.io/twitter/follow/chillbroh_98?logo=twitter&style=for-the-badge" alt="chillbroh_98" /></a> </p>
 
-
-- 🌱 I’m currently learning **Software Architecture, Angular, SpringBoot**
-- 👨‍💻 Currently Working on  **IBM Full Stack Software Developer Professional Certificate**
-- 💬 Fun Facts About Me **I enjoy debugging code and finding solutions to tricky problems**
-
 <br/>
 
 ## 📫 How to reach me
